@@ -1,0 +1,149 @@
+.nobreak {
+  -webkit-column-break-inside: avoid;
+  -moz-column-break-inside: avoid;
+  -o-column-break-inside: avoid;
+  -ms-column-break-inside: avoid;
+  display: table;
+}
+header#topheader .logo .alelogo {
+  background: url(../images/logo7.png) center center no-repeat;
+}
+header#topheader nav#leftnav li a:hover,
+header#topheader nav#rightnav li a:hover,
+header#topheader nav#leftnav li ul li a:hover,
+header#topheader nav#rightnav li ul li a:hover {
+  color: #90CA77;
+  -webkit-transition: all 300ms ease-in-out;
+  -moz-transition: all 300ms ease-in-out;
+  -ms-transition: all 300ms ease-in-out;
+  -o-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
+}
+header#topheader nav#leftnav li.current-menu-item a,
+header#topheader nav#rightnav li.current-menu-item a,
+header#topheader nav#leftnav li ul li.current-menu-item a,
+header#topheader nav#rightnav li ul li.current-menu-item a {
+  color: #90CA77;
+}
+a {
+  color: #90CA77;
+}
+footer#footer-main .socialprof .fbicon {
+  background: url(../images/soc7.png) 0 0 no-repeat;
+}
+footer#footer-main .socialprof .twiicon {
+  background: url(../images/soc7.png) -90px 0 no-repeat;
+}
+footer#footer-main .socialprof .gogicon {
+  background: url(../images/soc7.png) -180px 0 no-repeat;
+}
+footer#footer-main .socialprof .pinticon {
+  background: url(../images/soc7.png) -270px 0 no-repeat;
+}
+.readmoreabout {
+  color: #90CA77;
+}
+.circle:before,
+.circle:after {
+  box-shadow: inset 155px 0 0 rgba(144, 202, 119, 0.3), inset 0 155px 0 rgba(144, 202, 119, 0.3), inset -155px 0 0 rgba(144, 202, 119, 0.3), inset 0 -155px 0 rgba(144, 202, 119, 0.3);
+}
+section.homepage .grommandbridebox .leftgroom {
+  background: url(../images/groom7.png) center center no-repeat;
+}
+section.homepage .grommandbridebox .rightbride {
+  background: url(../images/bride7.png) center center no-repeat;
+}
+.singleblog .titleitem .customfont .lineone {
+  color: #90CA77;
+}
+.singleblog .topslider .postslider .flex-prev {
+  background: url(../images/leftslide7.png) no-repeat;
+}
+.singleblog .topslider .postslider .flex-next {
+  background: url(../images/rightslide7.png) no-repeat;
+}
+.singleblog .gridstyle .da-thumbs li a div {
+  background: rgba(144, 202, 119, 0.9);
+}
+.singleblog .eventslider .ei-slider-thumbs li.ei-slider-element {
+  background: #90CA77;
+}
+.singleblog .eventslider .ei-title h3 {
+  color: #90CA77;
+}
+.singleblog .weddingparty .leftwed .placeone,
+.singleblog .weddingparty .rightwed .dateone {
+  color: #90CA77;
+}
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  color: #90CA77;
+}
+.success {
+  color: #90CA77;
+  font-size: 14px;
+}
+.jspDrag {
+  background-color: #90CA77;
+}
+section.commentform section.respond span.succes {
+  color: #90CA77;
+}
+.lenta .coloritem {
+  background: url(../images/color7line.png) no-repeat;
+}
+.lenta .coloritem .roundbox .maskcolor {
+  background: #90CA77;
+}
+.wishesbox .wishitem .righttext .viewmore {
+  color: #90CA77;
+}
+.wishesbox .wishitem .popupbox {
+  background: rgba(144, 202, 119, 0.5);
+}
+.wishesbox .wishitem .popupbox .whitebox .close {
+  color: #90CA77;
+}
+.widgettitle,
+.lentaboxtitle {
+  color: #90CA77;
+}
+.singleblog .flexslider .flex-prev {
+  background: url(../images/leftslide7.png) no-repeat;
+}
+.singleblog .flexslider .flex-next {
+  background: url(../images/rightslide7.png) no-repeat;
+}
+.singleblog .gridstyle .da-thumbs li .linedouble {
+  border-color: #90CA77;
+}
+.singleblog .gridstyle #filters li.activefilter a,
+.singleblog .gridstyle #filters li.activefilter {
+  border-color: #90CA77;
+}
+input[type=text]:focus,
+input[type=email]:focus,
+input[type=url]:focus,
+input[type=search]:focus,
+input[type=password]:focus,
+textarea:focus {
+  border-color: #90CA77;
+}
+.singleblog .recentfromblog .recgaly .itemonhome .previewimg .mask {
+  background: rgba(144, 202, 119, 0.8);
+}
+.ale-team .socialbut .fbbut a {
+  background: url(../images/soc7.png) 0 0 no-repeat;
+}
+.ale-team .socialbut .twibut a {
+  background: url(../images/soc7.png) -90px 0 no-repeat;
+}
+.ale-team .socialbut .gbut a {
+  background: url(../images/soc7.png) -180px 0 no-repeat;
+}
+.ale-service .iconbox,
+.ale-divider span {
+  background: #90CA77;
+}

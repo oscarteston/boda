@@ -1,0 +1,247 @@
+@media (min-width: 1200px) {
+  
+}
+@media (max-width: 980px) {
+  .singleblog .topslider .postslider .flex-next,
+  .singleblog .topslider .previewimage .flex-next,
+  .singleblog .topslider .flexslider .flex-next {
+    margin-right: 10px;
+  }
+  .singleblog .topslider .postslider .flex-next:hover,
+  .singleblog .topslider .previewimage .flex-next:hover,
+  .singleblog .topslider .flexslider .flex-next:hover {
+    margin-right: 10px;
+  }
+  .singleblog .topslider .postslider .flex-prev,
+  .singleblog .topslider .previewimage .flex-prev,
+  .singleblog .topslider .flexslider .flex-prev {
+    margin-left: 10px;
+  }
+  .singleblog .topslider .postslider .flex-prev:hover,
+  .singleblog .topslider .previewimage .flex-prev:hover,
+  .singleblog .topslider .flexslider .flex-prev:hover {
+    margin-left: 10px;
+  }
+}
+@media (max-width: 1130px) {
+  
+}
+@media (max-width: 900px) {
+  header#topheader nav#leftmobilenav,
+  header#topheader nav#rightmobilenav {
+    display: block;
+  }
+  section.homepage .homeheader {
+    width: 100%;
+    max-width: 570px;
+    margin: 0 auto;
+  }
+  section.homepage .homeheader .ball1,
+  section.homepage .homeheader .ball2,
+  section.homepage .homeheader .ball3,
+  section.homepage .homeheader .ball4 {
+    display: none;
+  }
+  section.homepage .grommandbridebox .circlesandverse .versebox {
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  header#topheader nav#leftnav,
+  header#topheader nav#rightnav {
+    display: none;
+  }
+  .singleblog .gridstyle .da-thumbs li {
+    margin: 0;
+  }
+  .singleblog .topslider .postslider {
+    z-index: 9999;
+  }
+}
+@media (max-width: 767px) {
+  .mainhomepage {
+    display: none;
+  }
+  .singleblog .gridstyle .da-thumbs li {
+    margin: 0;
+    max-width: 50%;
+  }
+  .wishesbox .wishitem {
+    width: 100%;
+    float: none;
+    margin: 0;
+    margin-bottom: 15px;
+  }
+  .singleblog .gridstyle .da-thumbs li {
+    margin: 0;
+    max-width: 48%;
+    margin-right: 1%;
+  }
+  .singleblog .weddingparty .leftwed {
+    width: 100%;
+    float: none;
+    margin-bottom: 30px;
+  }
+  .singleblog .weddingparty .rightwed {
+    width: 100%;
+    float: none;
+    margin-bottom: 30px;
+  }
+  .singleblog {
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 95%;
+    overflow: hidden;
+  }
+  .singleblog .rightpart {
+    float: none;
+    width: 100%;
+  }
+  .singleblog .leftpart {
+    width: 100%;
+    margin-bottom: 30px;
+    float: none;
+  }
+  .lenta {
+    width: 415px;
+  }
+  .lenta .coloritem {
+    width: 415px;
+  }
+  .lenta .greyitem {
+    width: 415px;
+  }
+  .lenta .datebox {
+    display: none;
+  }
+  section.commentform section.comments {
+    width: 100%;
+    float: none;
+    margin-bottom: 20px;
+  }
+  section.commentform section.respond {
+    width: 100%;
+    float: none;
+  }
+}
+@media (max-width: 690px) {
+  section.homepage .imagehomebox {
+    background: none;
+    height: 450px;
+  }
+  section.homepage .imagehomebox .groomeandbride {
+    max-width: 560px;
+    width: 100%;
+    margin-top: 180px;
+  }
+}
+@media (max-width: 760px) {
+  section.homefive .imagehomebox .hesaidbox {
+    display: none!important;
+  }
+  section.homefive .imagehomebox .shesaidbox {
+    display: none;
+  }
+  section.homefive .imagehomebox {
+    background: none;
+    height: 200px;
+  }
+  section.homefive .imagehomebox .groomeandbride {
+    margin-top: 0px;
+  }
+}
+@media (max-width: 560px) {
+  section.homepage .imagehomebox {
+    height: 750px;
+  }
+  section.homepage .imagehomebox .groomeandbride {
+    max-width: 320px;
+  }
+  section.homepage .imagehomebox .groomeandbride .circle {
+    display: block;
+  }
+  section.homepage .imagehomebox .groomeandbride .vsbox {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  .sidebar {
+    display: none;
+  }
+  .rightsidebaron {
+    margin-right: 0;
+  }
+  .leftsidebaron {
+    margin-left: 0;
+  }
+  header#topheader .lefthead {
+    width: 100%;
+    float: none;
+    text-align: center;
+  }
+  header#topheader .righthead {
+    width: 100%;
+    float: none;
+    text-align: center;
+  }
+  header#topheader .lefthead .leftnav {
+    margin: 0 auto;
+    margin-top: 10px;
+    float: none;
+    margin-bottom: 85px;
+  }
+  header#topheader .righthead .rightnav {
+    margin: 0 auto;
+    margin-top: 85px;
+    float: none;
+    margin-bottom: 10px;
+  }
+  header#topheader .logo {
+    margin-top: 45px;
+  }
+  header#topheader {
+    height: 265px;
+  }
+  footer#footer-main .socialprof {
+    max-width: 300px;
+  }
+  footer#footer-main .socialprof .socic {
+    margin-left: 2px;
+  }
+}
+@media (max-width: 480px) {
+  section.homefive .imagehomebox {
+    height: 200px!important;
+  }
+  section.homepage .imagehomebox {
+    height: 580px;
+  }
+  section.homepage .imagehomebox .hesaidbox {
+    display: none;
+  }
+  section.homepage .imagehomebox .groomeandbride {
+    margin-top: 20px;
+  }
+  section.homepage .imagehomebox .shesaidbox {
+    display: none;
+  }
+  .singleblog .gridstyle .da-thumbs li {
+    margin: 0;
+    max-width: 100%;
+    float: none;
+  }
+  .lenta {
+    width: 320px;
+  }
+  .lenta .coloritem {
+    width: 320px;
+  }
+  .lenta .greyitem {
+    width: 320px;
+  }
+  .lenta .datebox {
+    display: none;
+  }
+}
+@media (max-width: 380px) {
+  
+}

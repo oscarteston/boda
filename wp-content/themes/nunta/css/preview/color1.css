@@ -1,0 +1,149 @@
+.nobreak {
+  -webkit-column-break-inside: avoid;
+  -moz-column-break-inside: avoid;
+  -o-column-break-inside: avoid;
+  -ms-column-break-inside: avoid;
+  display: table;
+}
+header#topheader .logo .alelogo {
+  background: url(../images/logo1.png) center center no-repeat;
+}
+header#topheader nav#leftnav li a:hover,
+header#topheader nav#rightnav li a:hover,
+header#topheader nav#leftnav li ul li a:hover,
+header#topheader nav#rightnav li ul li a:hover {
+  color: #dc5135;
+  -webkit-transition: all 300ms ease-in-out;
+  -moz-transition: all 300ms ease-in-out;
+  -ms-transition: all 300ms ease-in-out;
+  -o-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
+}
+header#topheader nav#leftnav li.current-menu-item a,
+header#topheader nav#rightnav li.current-menu-item a,
+header#topheader nav#leftnav li ul li.current-menu-item a,
+header#topheader nav#rightnav li ul li.current-menu-item a {
+  color: #dc5135;
+}
+a {
+  color: #dc5135;
+}
+footer#footer-main .socialprof .fbicon {
+  background: url(../images/soc1.png) 0 0 no-repeat;
+}
+footer#footer-main .socialprof .twiicon {
+  background: url(../images/soc1.png) -90px 0 no-repeat;
+}
+footer#footer-main .socialprof .gogicon {
+  background: url(../images/soc1.png) -180px 0 no-repeat;
+}
+footer#footer-main .socialprof .pinticon {
+  background: url(../images/soc1.png) -270px 0 no-repeat;
+}
+.readmoreabout {
+  color: #dc5135;
+}
+section.homepage .grommandbridebox .leftgroom {
+  background: url(../images/groom1.png) center center no-repeat;
+}
+section.homepage .grommandbridebox .rightbride {
+  background: url(../images/bride1.png) center center no-repeat;
+}
+.circle:before,
+.circle:after {
+  box-shadow: inset 155px 0 0 rgba(220, 81, 53, 0.3), inset 0 155px 0 rgba(220, 81, 53, 0.3), inset -155px 0 0 rgba(220, 81, 53, 0.3), inset 0 -155px 0 rgba(220, 81, 53, 0.3);
+}
+.singleblog .titleitem .customfont .lineone {
+  color: #dc5135;
+}
+.singleblog .topslider .postslider .flex-prev {
+  background: url(../images/leftslide1.png) no-repeat;
+}
+.singleblog .topslider .postslider .flex-next {
+  background: url(../images/rightslide1.png) no-repeat;
+}
+.singleblog .gridstyle .da-thumbs li a div {
+  background: rgba(220, 81, 53, 0.9);
+}
+.singleblog .eventslider .ei-slider-thumbs li.ei-slider-element {
+  background: #dc5135;
+}
+.singleblog .eventslider .ei-title h3 {
+  color: #dc5135;
+}
+.singleblog .weddingparty .leftwed .placeone,
+.singleblog .weddingparty .rightwed .dateone {
+  color: #dc5135;
+}
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  color: #dc5135;
+}
+.success {
+  color: #dc5135;
+  font-size: 14px;
+}
+.jspDrag {
+  background-color: #dc5135;
+}
+section.commentform section.respond span.succes {
+  color: #dc5135;
+}
+.lenta .coloritem {
+  background: url(../images/color1line.png) no-repeat;
+}
+.lenta .coloritem .roundbox .maskcolor {
+  background: #dc5135;
+}
+.wishesbox .wishitem .righttext .viewmore {
+  color: #dc5135;
+}
+.wishesbox .wishitem .popupbox {
+  background: rgba(235, 89, 60, 0.5);
+}
+.wishesbox .wishitem .popupbox .whitebox .close {
+  color: #dc5135;
+}
+.widgettitle,
+.lentaboxtitle {
+  color: #dc5135;
+}
+.singleblog .flexslider .flex-prev {
+  background: url(../images/leftslide1.png) no-repeat;
+}
+.singleblog .flexslider .flex-next {
+  background: url(../images/rightslide1.png) no-repeat;
+}
+.singleblog .gridstyle .da-thumbs li .linedouble {
+  border-color: #dc5135;
+}
+.singleblog .gridstyle #filters li.activefilter a,
+.singleblog .gridstyle #filters li.activefilter {
+  border-color: #dc5135;
+}
+input[type=text]:focus,
+input[type=email]:focus,
+input[type=url]:focus,
+input[type=search]:focus,
+input[type=password]:focus,
+textarea:focus {
+  border-color: #dc5135;
+}
+.singleblog .recentfromblog .recgaly .itemonhome .previewimg .mask {
+  background: rgba(235, 89, 60, 0.8);
+}
+.ale-team .socialbut .fbbut a {
+  background: url(../images/soc1.png) 0 0 no-repeat;
+}
+.ale-team .socialbut .twibut a {
+  background: url(../images/soc1.png) -90px 0 no-repeat;
+}
+.ale-team .socialbut .gbut a {
+  background: url(../images/soc1.png) -180px 0 no-repeat;
+}
+.ale-service .iconbox,
+.ale-divider span {
+  background: #dc5135;
+}
