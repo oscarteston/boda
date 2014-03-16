@@ -846,7 +846,7 @@ header#topheader .lefthead {
 }
 header#topheader .lefthead .leftnav {
   margin-top: 65px;
-  margin-right: 120px;
+  margin-right: 115px;
   float: right;
   display: inline-block;
   border-bottom: 1px solid #788483;
@@ -859,7 +859,7 @@ header#topheader .righthead {
 }
 header#topheader .righthead .rightnav {
   margin-top: 65px;
-  margin-left: 120px;
+  margin-left: 115px;
   float: left;
   display: inline-block;
   border-bottom: 1px solid #788483;
