@@ -184,9 +184,9 @@
 					
 				$img.css({
 					width		: imgDim.width,
-					height		: imgDim.height,
+					height		: 432,
 					marginLeft	: imgDim.left,
-					marginTop	: imgDim.top
+					//marginTop	: imgDim.top
 				});
 				
 			});
