@@ -68,7 +68,7 @@ get_header(); ?>
                         <div class="weddingparty cf">
                             <div class="leftwed">
                                 <div class="customfont placeone">
-                                    <?php _e('be there at','aletheme'); ?>
+                                    <?php _e('Lugar','aletheme'); ?>
                                 </div>
                                 <div class="mainfont placetwo">
                                     <?php echo ale_get_meta('place') ?><br />
@@ -77,7 +77,7 @@ get_header(); ?>
                             </div>
                             <div class="rightwed">
                                 <div class="customfont dateone">
-                                    <?php _e('date and time','aletheme'); ?>
+                                    <?php _e('Fecha Y Hora','aletheme'); ?>
                                 </div>
                                 <div class="mainfont datetwo">
                                     <?php echo ale_get_meta('weddingdate'); ?><br />
