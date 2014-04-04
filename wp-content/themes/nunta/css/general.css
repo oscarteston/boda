@@ -1717,7 +1717,6 @@ section.homepage .abouthome {
 }
 .singleblog .weddingparty .leftwed .placetwo .placethree {
   text-transform: none;
-  float: right;
   color: #999999;
   font-size: 24px;
   text-shadow: none;
@@ -1754,7 +1753,7 @@ section.homepage .abouthome {
   position: relative;
   width: 100%;
   max-width: 844px;
-  height: 314px;
+  height: 432px;
   margin: 0 auto;
 }
 .singleblog .eventslider .ei-slider-loading {
