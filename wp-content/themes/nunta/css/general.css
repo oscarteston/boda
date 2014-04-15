@@ -2166,6 +2166,7 @@ section.homepage .abouthome {
 .singleblog .topslider .previewimage ul.slides li,
 .singleblog .topslider .flexslider ul.slides li {
   display: none;
+  text-align: center;
 }
 .singleblog .topslider .postslider:hover .flex-next,
 .singleblog .topslider .previewimage:hover .flex-next,
