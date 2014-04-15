@@ -25,20 +25,20 @@ get_header(); ?>
                                     <?php endif; ?>
                                     <div class="ta nametwo">
                                         <!--<label for="contact-form-name"><?php _e('Your name','aletheme'); ?></label>-->
-                                        <input type="text" placeholder="<?php _e('Type here your name', 'aletheme')?> *" name="contact[name]" value="<?php echo isset($_POST['contact']['name']) ? $_POST['contact']['name'] : ''?>" required="required" id="contact-form-name" />
+                                        <input type="text" placeholder="<?php _e('Escribe aquí tu nombre', 'aletheme')?> *" name="contact[name]" value="<?php echo isset($_POST['contact']['name']) ? $_POST['contact']['name'] : ''?>" required="required" id="contact-form-name" />
                                     </div>
                                     <div class="ta emailtwo">
                                         <!--<label for="contact-form-email"><?php _e('Your email','aletheme'); ?></label>-->
-                                        <input type="email" placeholder="<?php _e('Type here your email', 'aletheme')?> *" name="contact[email]" value="<?php echo isset($_POST['contact']['email']) ? $_POST['contact']['email'] : ''?>" required="required" id="contact-form-email" />
+                                        <input type="email" placeholder="<?php _e('Escribe aquí tu email', 'aletheme')?> *" name="contact[email]" value="<?php echo isset($_POST['contact']['email']) ? $_POST['contact']['email'] : ''?>" required="required" id="contact-form-email" />
                                     </div>
                                     <div class="ta phonetwo">
                                         <!--<label for="contact-form-phone"><?php _e('Phone Number:','aletheme'); ?></label>-->
-                                        <input type="text" placeholder="<?php _e('Type here your phone number', 'aletheme')?>" name="contact[phone]" value="<?php echo isset($_POST['contact']['phone']) ? $_POST['contact']['phone'] : ''?>" id="contact-form-phone" />
+                                        <input type="text" placeholder="<?php _e('Escribe aquí tu número de teléfono', 'aletheme')?>" name="contact[phone]" value="<?php echo isset($_POST['contact']['phone']) ? $_POST['contact']['phone'] : ''?>" id="contact-form-phone" />
                                     </div>
                                     <div class="cf"></div>
                                     <div class="commenttextarea">
                                         <!--<label for="contact-form-message"><?php _e('Message','aletheme'); ?></label>-->
-                                        <textarea name="contact[message]" placeholder="<?php _e('Type here your message', 'aletheme')?> *" id="contact-form-message" cols="40" rows="5" required="required"><?php echo isset($_POST['contact']['message']) ? $_POST['contact']['message'] : ''?></textarea>
+                                        <textarea name="contact[message]" placeholder="<?php _e('Escribe aquí tu mensaje', 'aletheme')?> *" id="contact-form-message" cols="40" rows="5" required="required"><?php echo isset($_POST['contact']['message']) ? $_POST['contact']['message'] : ''?></textarea>
                                     </div>
                                     <div class="buttoncomment">
                                         <input type="submit" class="submit" value="<?php _e('Submit', 'aletheme')?>" />
