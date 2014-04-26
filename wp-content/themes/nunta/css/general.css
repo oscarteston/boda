@@ -108,6 +108,7 @@ body {
   font-size: 12px;
   font-weight: normal;
   line-height: 1.2;
+  background-image: url(images/pat2.png);
 }
 /* Form Elements
 *******************************/
@@ -3724,6 +3725,8 @@ dl.gallery-item dd {
   height:500px;
 }
 
+/*Estilos añadidos*/
+
 #mapa{
  display: block;
  margin: 0;
@@ -3736,6 +3739,12 @@ dl.gallery-item dd {
  background: rgba(0,255,0,0.5); /* verde si no hay mapa */
 }
 
+.singleblog .instrucciones {
+  color: red;
+  font-size: 33px;
+  text-align: center;
+  margin-bottom: 13px;
+}
 
 
 @media (max-width: 380px) {
