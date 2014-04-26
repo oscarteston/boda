@@ -88,9 +88,29 @@ get_header(); ?>
                     </div>
                 </div>
             </div>
+            <div class="map whiteboxexternal" style="margin-top: 11px;">
+                <div class="whiteboxinternal">
+                    <div class="paddingbox">
+                       <div id="mapa">
+                       </div>
+                    </div>
+                </div>
+            </div>
+            <div class="whiteboxexternal" style="margin-top: 11px;">
+                <div class="whiteboxinternal">
+                    <div class="paddingbox">
+                        <ul id="instrucciones">
+                        </ul>
+                    </div>
+                </div>
+            </div>
         <?php endwhile; else: ?>
             <?php ale_part('notfound')?>
         <?php endif; ?>
 
     </section>
+
+    <script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=true"></script>
+    <script type="text/javascript" src="/wp-content/themes/nunta/js/libs/gmaps.js"></script>
+    <script type="text/javascript" src="/wp-content/themes/nunta/js/mapa.js"></script>
 <?php get_footer(); ?>
