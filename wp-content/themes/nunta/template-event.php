@@ -99,7 +99,12 @@ get_header(); ?>
             <div class="whiteboxexternal" style="margin-top: 11px;">
                 <div class="whiteboxinternal">
                     <div class="paddingbox">
+                        <div class="customfont placeone instrucciones">
+                                    <?php _e('Instrucciones de la ruta','aletheme'); ?>
+                        </div>
+
                         <ul id="instrucciones">
+
                         </ul>
                     </div>
                 </div>
